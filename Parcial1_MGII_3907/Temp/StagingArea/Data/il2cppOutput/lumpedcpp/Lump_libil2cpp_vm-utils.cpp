@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "H:\Otros\Software\Editor\Data\il2cpp\libil2cpp\vm-utils\BlobReader.cpp"
+#include "H:\Otros\Software\Editor\Data\il2cpp\libil2cpp\vm-utils\Debugger.cpp"
+#include "H:\Otros\Software\Editor\Data\il2cpp\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "H:\Otros\Software\Editor\Data\il2cpp\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "H:\Otros\Software\Editor\Data\il2cpp\libil2cpp\vm-utils\VmStringUtils.cpp"
